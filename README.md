@@ -1,5 +1,5 @@
 -  Hi, I’m @KriszGameplay
--  I The leader of the TGB (The Great Battle Addon)
+-  I The leader of the ST:TGB (The Great Battle Addon)
 
 <!---
 KriszGameplay/KriszGameplay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
